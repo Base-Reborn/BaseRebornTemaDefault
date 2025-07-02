@@ -1,0 +1,30 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>neko_nightclub_milo_.ymap</Item>
+    <Item>ba_barriers_case8.ymap</Item>
+    <Item>hei_hw1_02_strm_1.ymap</Item>
+    <Item>ba_mpbattleipl_strm_0.ymap</Item>
+    <Item>ba_case8_forsale.ymap</Item>
+    <Item>ba_case8_solomun.ymap</Item>
+    <Item>ba_case8_taleofus.ymap</Item>
+    <Item>ba_case8_madonna.ymap</Item>
+    <Item>ba_case8_dixon.ymap</Item>
+    <Item>neko_nightclub_extdet.ymap</Item>
+    <Item>vw_lodlights_small013.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>neko_nightclub.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
