@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dh_ch02_metal0001_nrm.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}
